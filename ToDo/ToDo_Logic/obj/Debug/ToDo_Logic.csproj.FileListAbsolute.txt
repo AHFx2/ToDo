@@ -1,0 +1,9 @@
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Logic\bin\Debug\ToDo_Logic.dll
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Logic\bin\Debug\ToDo_Logic.pdb
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Logic\bin\Debug\ToDo_Data.dll
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Logic\bin\Debug\ToDo_Data.pdb
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Logic\obj\Debug\ToDo_Logic.csproj.AssemblyReference.cache
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Logic\obj\Debug\ToDo_Logic.csproj.CoreCompileInputs.cache
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Logic\obj\Debug\ToDo_Logic.csproj.Up2Date
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Logic\obj\Debug\ToDo_Logic.dll
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Logic\obj\Debug\ToDo_Logic.pdb

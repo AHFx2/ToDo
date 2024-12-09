@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo", "ToDo.csproj", "{76B2EBC2-F63A-41BE-8239-0392D56193C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo_Data", "..\ToDo_Data\ToDo_Data.csproj", "{DBB03C07-45F1-4D31-9314-C7F8E66F4D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo_Logic", "..\ToDo_Logic\ToDo_Logic.csproj", "{B6D2F46F-9988-479B-9F72-322AF96E134E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B2EBC2-F63A-41BE-8239-0392D56193C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B2EBC2-F63A-41BE-8239-0392D56193C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B2EBC2-F63A-41BE-8239-0392D56193C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B2EBC2-F63A-41BE-8239-0392D56193C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB03C07-45F1-4D31-9314-C7F8E66F4D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB03C07-45F1-4D31-9314-C7F8E66F4D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB03C07-45F1-4D31-9314-C7F8E66F4D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB03C07-45F1-4D31-9314-C7F8E66F4D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D2F46F-9988-479B-9F72-322AF96E134E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D2F46F-9988-479B-9F72-322AF96E134E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D2F46F-9988-479B-9F72-322AF96E134E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D2F46F-9988-479B-9F72-322AF96E134E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB870E75-50F2-45FB-B780-CFF811741678}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Data\bin\Debug\ToDo_Data.dll
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Data\bin\Debug\ToDo_Data.pdb
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Data\obj\Debug\ToDo_Data.csproj.AssemblyReference.cache
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Data\obj\Debug\ToDo_Data.csproj.CoreCompileInputs.cache
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Data\obj\Debug\ToDo_Data.dll
+F:\coding\Projects\ToDo\ToDoReop\ToDo_Data\obj\Debug\ToDo_Data.pdb
